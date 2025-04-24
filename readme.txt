@@ -50,8 +50,7 @@ Paste these into the app:
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/agentic-ai-rumor-verifier.git
-cd agentic-ai-rumor-verifier
+https://github.com/azizahmad7751/Agentic-AI-Rumor-Verifier-.git
 
 2. Install dependencies:
 
